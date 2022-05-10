@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{FB8C6F7B-660E-4166-8E6E-505534C5F0AB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vimeo/VimeoClient.cs">
+    <Files>
+      <File FileName="Vimeo/VimeoClient.cs" Line="14" Column="1" />
+      <File FileName="Vimeo/IVimeoClient.cs" Line="26" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fideo" expanded="True">
+            <Node name="Fideo" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Vimeo" expanded="True">
+                <Node name="VimeoClient.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Fideo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

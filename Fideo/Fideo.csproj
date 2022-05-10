@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Model\" />
+    <Folder Include="Vimeo\" />
+    <Folder Include="Vimeo\Constants\" />
+    <Folder Include="Vimeo\Authorization\" />
+    <Folder Include="Vimeo\Enums\" />
+    <Folder Include="Vimeo\Exceptions\" />
+    <Folder Include="Vimeo\Helpers\" />
+    <Folder Include="Vimeo\Models\" />
+    <Folder Include="Vimeo\Parameter\" />
+    <Folder Include="Vimeo\Network\" />
+  </ItemGroup>
+</Project>
